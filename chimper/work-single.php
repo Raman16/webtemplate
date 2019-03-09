@@ -65,26 +65,26 @@ echo "test";
         <div class="row align-items-center">
           
           <div class="col-11 col-xl-2">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">Chimper</a></h1>
+            <h1 class="mb-0 site-logo"><a href="index.php" class="text-black h2 mb-0">Chimper</a></h1>
           </div>
           <div class="col-12 col-md-10 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right" role="navigation">
 
               <ul class="site-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="index.html">Home</a></li>
-                <li class="active"><a href="work.html">Work</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li class="active"><a href="work.php">Work</a></li>
                 <li class="has-children">
-                  <a href="services.html">Services</a>
+                  <a href="services.php">Services</a>
                   <ul class="dropdown">
-                    <li><a href="services.html">Web Applications</a></li>
-                    <li><a href="services.html">WordPress Dev</a></li>
-                    <li><a href="services.html">Mobile Applications</a></li>
-                    <li><a href="services.html">eCommerce</a></li>
+                    <li><a href="services.php">Web Applications</a></li>
+                    <li><a href="services.php">WordPress Dev</a></li>
+                    <li><a href="services.php">Mobile Applications</a></li>
+                    <li><a href="services.php">eCommerce</a></li>
                   </ul>
                 </li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="contact.php">Contact</a></li>
               </ul>
             </nav>
           </div>
